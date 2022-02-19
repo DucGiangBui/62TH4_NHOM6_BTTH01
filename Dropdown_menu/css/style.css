@@ -49,10 +49,7 @@ ul li:hover ul li {
   border-bottom-right-radius: 10px;
   border-top-right-radius: 10px;
 }
-.first {
-  border-bottom-left-radius: 10px;
-  border-bottom-right-radius: 10px;
-}
+.first,
 .second {
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
